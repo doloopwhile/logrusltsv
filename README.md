@@ -1,2 +1,2 @@
 # logrus-ltsv
-LTSV Formatter for Logrus
+[LTSV](http://ltsv.org/) Formatter for [Logrus(github.com/Sirupsen/logrus)](https://github.com/Sirupsen/logrus)
